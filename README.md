@@ -2,7 +2,7 @@
 
 An interactive data analytics dashboard built with Streamlit that analyzes Netflix content performance, viewer engagement patterns, and strategic insights for content decision-making.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url-here.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rh4t8mtzebqmffss7nthkp.streamlit.app/)
 
 ## 📊 Project Overview
 
