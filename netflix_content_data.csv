@@ -1,0 +1,501 @@
+title,type,genre,country,release_year,release_month,rating,imdb_score,viewership_hours,completion_rate,engagement_score
+Content Title 1,Movie,Drama,Spain,2022,3,TV-14,6.5,15079419,0.48,47.7
+Content Title 2,Movie,Crime,France,2022,8,G,5.6,6387781,0.52,41.4
+Content Title 3,Movie,Animation,South Korea,2021,10,PG-13,8.0,47165122,0.7,80.3
+Content Title 4,TV Show,Drama,Netherlands,2020,1,TV-PG,8.3,46951341,0.63,78.3
+Content Title 5,Movie,Romance,United Kingdom,2016,9,PG,5.8,6590526,0.6,45.4
+Content Title 6,TV Show,Drama,Spain,2021,10,TV-Y7,7.1,8476941,0.94,64.0
+Content Title 7,TV Show,Crime,Italy,2015,11,TV-14,8.5,38845446,0.51,69.2
+Content Title 8,Movie,Documentary,United Kingdom,2015,7,TV-G,8.5,6878091,0.61,54.0
+Content Title 9,TV Show,Action,Canada,2022,2,TV-14,6.7,45074694,0.55,69.1
+Content Title 10,Movie,Animation,Spain,2021,10,G,6.4,31121757,0.61,62.3
+Content Title 11,TV Show,Drama,South Korea,2017,6,TV-14,8.4,21269695,0.62,62.8
+Content Title 12,TV Show,Horror,Australia,2017,5,TV-PG,7.2,43241058,0.65,73.5
+Content Title 13,Movie,Animation,Brazil,2016,7,NR,6.4,39330901,0.64,68.4
+Content Title 14,TV Show,Horror,India,2019,6,TV-14,7.3,6200827,0.82,58.4
+Content Title 15,Movie,Thriller,Mexico,2016,9,TV-G,5.7,25710036,0.73,61.7
+Content Title 16,TV Show,Animation,Turkey,2020,12,G,8.8,45753046,0.8,85.9
+Content Title 17,TV Show,Romance,United Kingdom,2023,6,TV-PG,6.5,10713787,0.65,51.9
+Content Title 18,Movie,Animation,Italy,2020,8,G,5.9,42063185,0.56,65.3
+Content Title 19,Movie,Action,Canada,2021,10,G,8.2,36297113,0.92,83.2
+Content Title 20,TV Show,Sci-Fi,United States,2015,1,TV-PG,5.9,24459226,0.88,67.6
+Content Title 21,Movie,Horror,Italy,2017,9,TV-G,7.5,5385296,0.45,43.7
+Content Title 22,Movie,Action,Australia,2015,10,G,7.2,36996694,0.49,63.4
+Content Title 23,TV Show,Horror,Italy,2021,10,TV-PG,7.4,49084844,0.78,82.9
+Content Title 24,TV Show,Sci-Fi,Italy,2019,6,TV-14,7.3,8220454,0.54,48.4
+Content Title 25,Movie,Crime,Brazil,2018,10,TV-MA,6.3,14878538,0.4,43.8
+Content Title 26,Movie,Drama,Turkey,2017,7,TV-G,6.7,34604433,0.53,62.1
+Content Title 27,Movie,Crime,Mexico,2017,5,PG-13,7.2,31840676,0.84,74.3
+Content Title 28,Movie,Thriller,Canada,2016,1,TV-MA,7.0,31441494,0.88,75.1
+Content Title 29,Movie,Drama,France,2022,7,PG-13,8.0,7432920,0.54,50.1
+Content Title 30,TV Show,Action,France,2021,1,TV-14,6.1,31146444,0.54,58.6
+Content Title 31,Movie,Drama,Australia,2019,12,PG-13,9.0,1090382,0.93,64.9
+Content Title 32,TV Show,Sci-Fi,Germany,2016,11,R,6.2,27013358,0.9,70.8
+Content Title 33,Movie,Thriller,Japan,2019,4,G,8.7,30635094,0.56,66.9
+Content Title 34,TV Show,Action,South Korea,2022,6,G,6.5,4024747,0.72,50.7
+Content Title 35,TV Show,Drama,United States,2015,9,G,7.5,33845717,0.91,79.2
+Content Title 36,Movie,Animation,United Kingdom,2016,10,PG-13,8.5,4698388,0.73,57.5
+Content Title 37,Movie,Crime,South Korea,2019,7,TV-Y7,7.5,2767017,0.74,53.8
+Content Title 38,TV Show,Documentary,South Korea,2022,5,TV-Y7,7.8,21184522,0.53,57.3
+Content Title 39,TV Show,Sci-Fi,Canada,2016,6,NR,8.8,4968286,0.41,45.8
+Content Title 40,Movie,Comedy,Brazil,2021,4,PG,6.2,17897298,0.47,48.1
+Content Title 41,Movie,Romance,Japan,2015,10,NR,6.1,36554740,0.79,71.8
+Content Title 42,Movie,Animation,Japan,2022,5,R,8.8,7051572,0.92,67.4
+Content Title 43,Movie,Comedy,Spain,2017,12,PG-13,7.4,18376979,0.55,55.2
+Content Title 44,TV Show,Horror,Australia,2023,1,TV-PG,7.7,17815659,0.68,61.0
+Content Title 45,Movie,Thriller,Turkey,2015,7,R,6.5,337947,0.58,42.9
+Content Title 46,TV Show,Action,Spain,2022,2,TV-MA,7.0,47456540,0.64,75.1
+Content Title 47,Movie,Action,Brazil,2016,4,R,5.6,24877665,0.72,60.5
+Content Title 48,Movie,Drama,Japan,2019,10,PG-13,6.8,2777299,0.89,57.7
+Content Title 49,Movie,Comedy,Canada,2022,8,R,8.2,27371524,0.94,78.6
+Content Title 50,Movie,Action,Italy,2017,8,PG,6.9,12136690,0.81,60.4
+Content Title 51,TV Show,Horror,Japan,2023,10,TV-MA,6.1,47161982,0.46,65.0
+Content Title 52,Movie,Horror,Turkey,2020,4,PG-13,8.7,23565179,0.57,63.0
+Content Title 53,Movie,Horror,France,2017,7,TV-PG,6.6,4758747,0.93,59.9
+Content Title 54,TV Show,Animation,Canada,2018,12,TV-PG,8.8,7840453,0.88,66.3
+Content Title 55,TV Show,Drama,United Kingdom,2017,1,PG,7.6,23298669,0.8,68.8
+Content Title 56,Movie,Thriller,Italy,2019,11,TV-Y7,7.5,17194138,0.42,49.6
+Content Title 57,Movie,Romance,France,2015,1,NR,5.7,44676236,0.91,80.3
+Content Title 58,Movie,Documentary,Brazil,2018,7,TV-PG,6.6,27506784,0.58,59.5
+Content Title 59,Movie,Horror,France,2021,3,R,7.8,25544008,0.77,69.5
+Content Title 60,TV Show,Thriller,Brazil,2021,11,TV-Y7,8.4,20492702,0.56,59.9
+Content Title 61,TV Show,Sci-Fi,Germany,2023,10,R,7.0,14441258,0.68,56.9
+Content Title 62,Movie,Documentary,Brazil,2022,5,PG-13,7.8,41657889,0.58,71.6
+Content Title 63,TV Show,Horror,Netherlands,2022,7,TV-G,6.2,1739160,0.43,36.8
+Content Title 64,Movie,Sci-Fi,France,2021,11,TV-Y7,8.6,38732620,0.51,69.4
+Content Title 65,TV Show,Horror,India,2020,7,TV-14,7.8,472106,0.89,59.3
+Content Title 66,TV Show,Horror,India,2023,9,TV-MA,8.3,46801848,0.68,80.2
+Content Title 67,Movie,Comedy,Germany,2021,4,G,6.0,31281679,0.77,67.6
+Content Title 68,TV Show,Sci-Fi,Mexico,2021,9,G,8.4,33975089,0.63,70.8
+Content Title 69,Movie,Sci-Fi,Germany,2020,1,TV-PG,6.4,16691977,0.86,63.6
+Content Title 70,TV Show,Horror,Japan,2023,8,TV-PG,7.0,47985185,0.56,72.2
+Content Title 71,TV Show,Animation,United Kingdom,2018,10,R,6.0,15619695,0.61,51.8
+Content Title 72,Movie,Comedy,France,2022,12,TV-MA,6.9,36514017,0.66,69.0
+Content Title 73,TV Show,Thriller,Italy,2017,4,NR,8.2,46775757,0.41,69.1
+Content Title 74,TV Show,Drama,Canada,2019,4,TV-Y7,6.5,26271560,0.87,70.1
+Content Title 75,Movie,Sci-Fi,South Korea,2021,1,PG,6.5,32690882,0.42,55.9
+Content Title 76,TV Show,Action,Turkey,2022,7,G,7.1,8664956,0.94,64.1
+Content Title 77,TV Show,Crime,Mexico,2015,4,R,7.8,5733618,0.75,56.8
+Content Title 78,Movie,Drama,Japan,2020,3,PG,6.8,14304281,0.65,55.0
+Content Title 79,TV Show,Documentary,Netherlands,2023,7,TV-14,8.8,28390736,0.54,65.0
+Content Title 80,Movie,Animation,United States,2020,4,TV-14,9.0,23585441,0.52,62.0
+Content Title 81,Movie,Drama,South Korea,2023,10,PG-13,6.2,1467679,0.74,49.1
+Content Title 82,TV Show,Comedy,Mexico,2016,6,PG,8.8,31307902,0.78,76.4
+Content Title 83,Movie,Action,Japan,2016,11,NR,5.9,1823249,0.91,55.2
+Content Title 84,TV Show,Thriller,Spain,2022,8,PG-13,6.2,39835014,0.78,73.7
+Content Title 85,TV Show,Crime,Netherlands,2016,2,PG,5.9,38079090,0.83,73.7
+Content Title 86,TV Show,Romance,United Kingdom,2020,12,TV-Y7,7.3,22999636,0.41,52.1
+Content Title 87,Movie,Thriller,Canada,2020,6,TV-Y7,7.7,30952585,0.79,73.3
+Content Title 88,TV Show,Crime,Netherlands,2016,12,NR,8.7,32546968,0.66,72.0
+Content Title 89,TV Show,Horror,Turkey,2018,1,PG-13,8.8,18818557,0.88,72.9
+Content Title 90,TV Show,Crime,Mexico,2023,6,PG,7.8,22675195,0.42,53.8
+Content Title 91,TV Show,Horror,Canada,2017,1,NR,8.3,22939753,0.55,60.7
+Content Title 92,TV Show,Animation,United States,2022,11,TV-Y7,7.3,12921579,0.45,47.7
+Content Title 93,Movie,Sci-Fi,Australia,2020,6,TV-14,8.0,30176484,0.84,75.7
+Content Title 94,Movie,Thriller,Spain,2018,4,TV-G,6.4,44657602,0.72,74.8
+Content Title 95,TV Show,Thriller,Spain,2021,3,TV-PG,7.4,23709604,0.79,68.0
+Content Title 96,TV Show,Horror,United Kingdom,2018,6,G,8.0,21276064,0.47,55.6
+Content Title 97,Movie,Horror,South Korea,2023,7,G,8.1,18655575,0.8,67.5
+Content Title 98,TV Show,Comedy,Turkey,2021,9,TV-PG,6.2,15366136,0.6,51.8
+Content Title 99,Movie,Documentary,United States,2015,2,R,8.9,37235291,0.56,71.4
+Content Title 100,TV Show,Comedy,Turkey,2022,2,TV-G,5.5,19181689,0.66,54.4
+Content Title 101,Movie,Drama,Japan,2018,10,TV-14,8.8,32159863,0.46,64.1
+Content Title 102,TV Show,Comedy,Mexico,2019,6,NR,7.7,3697644,0.48,44.5
+Content Title 103,Movie,Horror,United Kingdom,2018,5,NR,7.5,28028965,0.73,68.5
+Content Title 104,TV Show,Sci-Fi,Italy,2017,7,TV-PG,7.0,39595253,0.94,82.4
+Content Title 105,Movie,Crime,Spain,2021,5,TV-PG,5.8,14044410,0.74,55.4
+Content Title 106,Movie,Action,South Korea,2022,5,TV-Y7,6.1,5137518,0.49,41.0
+Content Title 107,TV Show,Documentary,United States,2020,1,TV-G,6.3,47543002,0.56,69.8
+Content Title 108,Movie,Documentary,Netherlands,2015,10,PG-13,8.3,39680109,0.76,79.1
+Content Title 109,Movie,Animation,South Korea,2019,10,TV-14,7.8,17926293,0.85,68.2
+Content Title 110,Movie,Documentary,Mexico,2015,9,TV-G,8.1,38298838,0.91,83.7
+Content Title 111,TV Show,Documentary,Spain,2016,5,TV-G,6.9,18370132,0.68,58.9
+Content Title 112,Movie,Crime,United States,2019,11,TV-PG,8.6,49393737,0.58,78.6
+Content Title 113,Movie,Horror,Australia,2015,4,TV-MA,8.4,38700958,0.72,77.2
+Content Title 114,TV Show,Crime,United States,2023,7,TV-G,8.2,11856850,0.66,58.1
+Content Title 115,Movie,Crime,France,2018,2,TV-G,7.7,33099159,0.93,80.2
+Content Title 116,TV Show,Romance,Canada,2018,11,TV-G,7.8,10892773,0.58,53.1
+Content Title 117,TV Show,Animation,United States,2018,3,TV-14,7.1,21206889,0.54,55.6
+Content Title 118,TV Show,Animation,Turkey,2023,8,TV-G,9.0,44234841,0.88,88.7
+Content Title 119,Movie,Horror,Brazil,2019,8,TV-MA,6.8,33553305,0.74,70.1
+Content Title 120,TV Show,Animation,India,2017,4,TV-G,8.7,29501473,0.88,79.0
+Content Title 121,Movie,Crime,Netherlands,2016,5,TV-MA,6.3,10728578,0.57,48.1
+Content Title 122,TV Show,Comedy,South Korea,2021,3,TV-14,9.0,7714246,0.65,57.6
+Content Title 123,Movie,Sci-Fi,Italy,2022,4,TV-Y7,8.0,34249822,0.79,76.1
+Content Title 124,TV Show,Horror,Germany,2020,5,NR,7.4,25842021,0.5,57.7
+Content Title 125,Movie,Comedy,Japan,2020,9,G,8.2,27946314,0.59,65.0
+Content Title 126,Movie,Documentary,Spain,2017,12,TV-G,6.5,39488723,0.72,72.0
+Content Title 127,TV Show,Animation,Germany,2016,8,TV-Y7,6.7,37138550,0.82,75.2
+Content Title 128,TV Show,Horror,Spain,2020,2,TV-Y7,6.3,25800738,0.53,55.6
+Content Title 129,TV Show,Sci-Fi,Spain,2015,6,R,8.7,25683989,0.61,65.9
+Content Title 130,Movie,Action,Brazil,2020,7,TV-G,8.9,22379787,0.88,75.3
+Content Title 131,TV Show,Drama,Spain,2016,2,TV-14,6.0,44041630,0.93,81.6
+Content Title 132,TV Show,Romance,Mexico,2020,4,PG,7.9,43709799,0.44,67.5
+Content Title 133,TV Show,Romance,Australia,2022,7,TV-MA,8.0,32845601,0.88,78.9
+Content Title 134,Movie,Horror,Australia,2021,12,TV-14,7.9,19385678,0.95,73.3
+Content Title 135,Movie,Comedy,Germany,2019,11,TV-MA,6.1,20196828,0.9,66.4
+Content Title 136,Movie,Documentary,Canada,2018,8,TV-Y7,6.8,9869023,0.53,47.5
+Content Title 137,Movie,Action,India,2021,5,PG-13,5.8,25772113,0.74,62.5
+Content Title 138,Movie,Horror,Germany,2020,7,TV-MA,7.7,30941254,0.54,63.3
+Content Title 139,TV Show,Animation,India,2020,3,TV-PG,5.8,23290516,0.94,69.0
+Content Title 140,TV Show,Documentary,Germany,2022,3,TV-G,8.5,13469226,0.95,71.6
+Content Title 141,Movie,Thriller,Mexico,2016,3,TV-PG,6.8,19955659,0.95,70.4
+Content Title 142,TV Show,Documentary,United States,2015,3,TV-MA,7.5,46123224,0.83,83.4
+Content Title 143,TV Show,Documentary,Netherlands,2021,10,PG-13,8.3,40839442,0.84,83.0
+Content Title 144,Movie,Crime,Japan,2022,2,R,7.9,48480684,0.82,85.6
+Content Title 145,Movie,Drama,Japan,2022,1,R,8.3,2339055,0.72,55.1
+Content Title 146,TV Show,Romance,Spain,2016,1,G,7.0,13575110,0.47,47.9
+Content Title 147,TV Show,Action,Japan,2019,2,TV-PG,8.7,32436260,0.93,82.8
+Content Title 148,TV Show,Comedy,Germany,2023,5,PG-13,8.9,9546043,0.81,64.8
+Content Title 149,TV Show,Animation,Canada,2022,8,G,5.8,26579450,0.41,49.7
+Content Title 150,TV Show,Romance,Australia,2016,5,PG,8.1,17693354,0.72,63.7
+Content Title 151,Movie,Sci-Fi,United States,2016,3,NR,7.7,37775411,0.58,69.0
+Content Title 152,Movie,Sci-Fi,Italy,2017,6,R,8.0,43669721,0.62,75.0
+Content Title 153,Movie,Documentary,Germany,2015,7,R,5.9,15857163,0.89,62.8
+Content Title 154,TV Show,Romance,Australia,2019,5,TV-Y7,8.8,46840249,0.92,91.3
+Content Title 155,Movie,Thriller,Australia,2021,8,TV-PG,5.8,32939523,0.74,66.8
+Content Title 156,TV Show,Horror,Germany,2015,5,TV-14,7.1,15945250,0.87,65.7
+Content Title 157,TV Show,Animation,Italy,2022,9,TV-PG,8.9,24170194,0.43,58.4
+Content Title 158,Movie,Sci-Fi,United Kingdom,2017,2,TV-MA,7.8,43164057,0.75,79.3
+Content Title 159,TV Show,Horror,India,2015,7,G,8.3,13871113,0.44,50.8
+Content Title 160,Movie,Horror,Canada,2017,4,R,8.2,40095650,0.4,64.7
+Content Title 161,TV Show,Action,United Kingdom,2016,6,PG,7.8,1830076,0.47,43.3
+Content Title 162,Movie,Crime,Canada,2023,11,TV-Y7,5.6,17908512,0.43,44.7
+Content Title 163,Movie,Comedy,Germany,2020,11,TV-14,7.1,24396024,0.68,63.1
+Content Title 164,Movie,Crime,United States,2020,1,TV-G,8.0,44318236,0.69,78.2
+Content Title 165,Movie,Drama,Germany,2022,3,TV-G,8.5,28706738,0.78,73.9
+Content Title 166,TV Show,Comedy,Italy,2022,12,R,5.8,40922149,0.48,61.2
+Content Title 167,TV Show,Thriller,Mexico,2018,1,TV-Y7,7.4,30548326,0.68,67.7
+Content Title 168,Movie,Animation,Spain,2016,2,PG-13,8.5,28961505,0.65,68.9
+Content Title 169,TV Show,Sci-Fi,France,2019,8,PG,7.0,6481102,0.57,47.7
+Content Title 170,TV Show,Romance,India,2022,6,TV-14,7.9,31927579,0.44,60.5
+Content Title 171,TV Show,Comedy,Spain,2016,1,NR,8.1,8831900,0.71,58.0
+Content Title 172,TV Show,Comedy,France,2021,4,TV-Y7,6.7,44750246,0.92,83.8
+Content Title 173,Movie,Documentary,Mexico,2023,2,PG-13,6.6,7052516,0.72,52.8
+Content Title 174,TV Show,Horror,Turkey,2016,9,TV-PG,5.9,37430344,0.6,64.2
+Content Title 175,Movie,Thriller,Turkey,2021,6,G,7.5,41823178,0.74,77.2
+Content Title 176,TV Show,Drama,India,2015,4,PG,6.5,20835611,0.91,68.4
+Content Title 177,Movie,Action,Mexico,2015,1,TV-MA,7.8,4769798,0.48,45.5
+Content Title 178,Movie,Thriller,France,2016,1,PG,7.1,10663557,0.6,51.7
+Content Title 179,Movie,Drama,India,2023,9,TV-14,6.1,41562418,0.43,60.4
+Content Title 180,TV Show,Thriller,Germany,2018,1,G,7.6,27895400,0.55,61.5
+Content Title 181,TV Show,Thriller,United Kingdom,2016,4,G,6.5,45632441,0.73,76.1
+Content Title 182,TV Show,Drama,South Korea,2022,6,PG-13,6.9,40320017,0.43,62.1
+Content Title 183,Movie,Action,Netherlands,2018,5,TV-G,6.4,22119918,0.47,51.3
+Content Title 184,TV Show,Action,India,2023,5,G,6.8,47322579,0.53,70.0
+Content Title 185,TV Show,Comedy,France,2022,6,TV-G,8.5,2938856,0.64,52.9
+Content Title 186,TV Show,Crime,France,2015,11,TV-PG,7.5,47713669,0.75,81.1
+Content Title 187,TV Show,Drama,Canada,2016,4,PG,6.1,41581684,0.65,69.2
+Content Title 188,TV Show,Comedy,South Korea,2015,12,TV-Y7,7.0,26973732,0.69,64.8
+Content Title 189,TV Show,Horror,Canada,2018,6,TV-14,8.2,5225733,0.68,54.9
+Content Title 190,Movie,Romance,Canada,2020,12,PG-13,8.0,43414944,0.85,84.0
+Content Title 191,Movie,Documentary,South Korea,2016,2,TV-14,6.1,10358917,0.82,57.3
+Content Title 192,TV Show,Sci-Fi,Netherlands,2016,12,NR,7.5,38987445,0.65,71.9
+Content Title 193,TV Show,Romance,India,2022,3,TV-PG,7.0,31568761,0.64,65.5
+Content Title 194,TV Show,Crime,United States,2023,12,TV-G,6.7,5078850,0.57,45.9
+Content Title 195,Movie,Romance,Turkey,2015,6,TV-14,6.5,43362834,0.88,80.7
+Content Title 196,TV Show,Sci-Fi,Mexico,2021,11,TV-G,7.4,49688151,0.89,87.6
+Content Title 197,Movie,Romance,Mexico,2021,5,TV-G,7.2,10224115,0.93,64.9
+Content Title 198,TV Show,Comedy,Brazil,2016,2,TV-G,7.8,2726783,0.54,46.6
+Content Title 199,Movie,Romance,Canada,2019,12,PG,8.7,26099085,0.62,66.6
+Content Title 200,Movie,Romance,United Kingdom,2022,8,TV-PG,6.7,37544277,0.77,73.4
+Content Title 201,Movie,Romance,United Kingdom,2017,10,TV-PG,7.5,9591097,0.9,64.3
+Content Title 202,TV Show,Action,Mexico,2022,5,TV-Y7,8.0,5785396,0.57,50.3
+Content Title 203,TV Show,Action,Australia,2022,3,G,8.0,49678328,0.95,91.8
+Content Title 204,TV Show,Animation,Canada,2016,1,PG-13,5.6,20827651,0.5,49.3
+Content Title 205,TV Show,Horror,South Korea,2018,10,TV-14,9.0,10498194,0.44,50.9
+Content Title 206,Movie,Romance,Italy,2020,9,R,8.2,8894552,0.73,59.1
+Content Title 207,Movie,Crime,Netherlands,2016,10,TV-Y7,8.7,48497771,0.64,80.8
+Content Title 208,Movie,Sci-Fi,Mexico,2019,2,PG-13,6.5,30227045,0.53,58.8
+Content Title 209,TV Show,Horror,Canada,2018,6,TV-G,7.9,38380197,0.94,84.3
+Content Title 210,TV Show,Thriller,Brazil,2023,8,NR,7.3,10975539,0.85,62.5
+Content Title 211,TV Show,Drama,Australia,2016,7,TV-14,7.2,25011622,0.7,64.6
+Content Title 212,Movie,Documentary,United Kingdom,2022,12,G,8.2,18406714,0.65,61.6
+Content Title 213,TV Show,Comedy,Italy,2016,8,TV-MA,6.3,30374686,0.89,72.7
+Content Title 214,Movie,Thriller,Brazil,2019,8,PG,6.8,26015169,0.95,74.0
+Content Title 215,Movie,Romance,Italy,2017,7,R,5.8,48062991,0.76,76.6
+Content Title 216,Movie,Documentary,Italy,2016,7,TV-G,8.4,46812600,0.86,87.7
+Content Title 217,Movie,Comedy,United States,2020,1,NR,6.4,10134091,0.7,53.3
+Content Title 218,TV Show,Comedy,Netherlands,2020,12,PG-13,6.5,20309914,0.47,50.5
+Content Title 219,TV Show,Comedy,United Kingdom,2019,9,TV-MA,8.4,33642971,0.73,74.6
+Content Title 220,Movie,Action,Japan,2022,2,NR,7.0,41359172,0.59,69.4
+Content Title 221,Movie,Comedy,Brazil,2019,9,G,8.9,4641882,0.92,66.3
+Content Title 222,Movie,Thriller,Turkey,2020,9,PG,7.1,42759144,0.61,71.4
+Content Title 223,Movie,Romance,Netherlands,2017,11,TV-14,5.7,16281686,0.8,58.9
+Content Title 224,TV Show,Action,United States,2023,8,R,6.7,22819521,0.85,67.8
+Content Title 225,TV Show,Sci-Fi,Australia,2023,9,TV-G,6.1,9149803,0.43,41.0
+Content Title 226,TV Show,Horror,United States,2015,6,TV-PG,8.3,2912260,0.57,49.4
+Content Title 227,TV Show,Animation,Germany,2020,10,PG,6.4,43512757,0.51,65.7
+Content Title 228,Movie,Romance,Japan,2023,10,TV-Y7,5.9,24797348,0.64,58.2
+Content Title 229,TV Show,Thriller,Canada,2023,5,PG,8.9,33399634,0.78,77.9
+Content Title 230,TV Show,Comedy,Spain,2023,12,R,7.0,28997556,0.73,67.6
+Content Title 231,TV Show,Romance,United Kingdom,2021,2,TV-G,5.8,44453538,0.56,66.5
+Content Title 232,TV Show,Action,Spain,2021,10,PG,7.1,30106363,0.42,56.2
+Content Title 233,TV Show,Documentary,Australia,2021,11,TV-Y7,8.9,3949234,0.44,46.7
+Content Title 234,Movie,Drama,India,2019,1,TV-MA,8.5,45605773,0.83,86.1
+Content Title 235,Movie,Horror,Netherlands,2016,6,NR,7.8,24403514,0.61,62.4
+Content Title 236,Movie,Sci-Fi,Canada,2015,5,G,6.8,5259693,0.72,52.4
+Content Title 237,TV Show,Romance,Australia,2019,2,R,6.5,7713407,0.41,40.5
+Content Title 238,TV Show,Animation,United Kingdom,2020,8,PG-13,6.4,17567750,0.79,61.3
+Content Title 239,TV Show,Sci-Fi,South Korea,2021,11,TV-G,5.9,5069548,0.65,46.7
+Content Title 240,TV Show,Romance,Spain,2015,12,TV-PG,5.7,36484504,0.56,61.4
+Content Title 241,Movie,Romance,Brazil,2016,10,PG-13,6.3,13587564,0.84,60.7
+Content Title 242,TV Show,Drama,Canada,2023,11,G,7.4,24857209,0.66,63.5
+Content Title 243,Movie,Comedy,Japan,2016,6,G,6.9,48212599,0.8,81.6
+Content Title 244,TV Show,Crime,United Kingdom,2019,8,TV-G,5.9,21375366,0.75,60.5
+Content Title 245,TV Show,Action,Italy,2020,3,R,8.4,37097347,0.75,77.5
+Content Title 246,Movie,Thriller,Brazil,2023,8,G,8.7,3818693,0.86,62.8
+Content Title 247,TV Show,Action,India,2016,9,G,6.6,47702473,0.52,69.2
+Content Title 248,Movie,Documentary,South Korea,2018,3,TV-PG,7.7,37066341,0.55,67.3
+Content Title 249,Movie,Animation,Australia,2021,11,NR,6.1,39066527,0.48,60.9
+Content Title 250,TV Show,Crime,United States,2023,1,NR,8.4,2004112,0.44,44.0
+Content Title 251,Movie,Crime,France,2017,12,G,7.7,2132452,0.67,51.2
+Content Title 252,TV Show,Sci-Fi,South Korea,2018,4,TV-G,8.3,46068957,0.62,77.3
+Content Title 253,Movie,Action,Germany,2015,10,NR,7.0,31268185,0.51,60.2
+Content Title 254,TV Show,Romance,Spain,2016,8,R,9.0,23277425,0.94,78.6
+Content Title 255,TV Show,Animation,Brazil,2023,7,TV-PG,5.9,16322753,0.66,53.9
+Content Title 256,Movie,Action,United Kingdom,2020,1,TV-Y7,5.7,25879858,0.88,67.8
+Content Title 257,Movie,Romance,Italy,2017,10,R,7.5,21085943,0.5,55.2
+Content Title 258,TV Show,Sci-Fi,Italy,2020,8,TV-Y7,6.6,1655335,0.45,38.8
+Content Title 259,TV Show,Horror,South Korea,2020,9,TV-G,7.5,3365392,0.43,41.7
+Content Title 260,TV Show,Documentary,Brazil,2021,9,TV-PG,5.5,7314007,0.64,46.5
+Content Title 261,TV Show,Thriller,Canada,2023,2,PG-13,5.7,3533134,0.71,47.6
+Content Title 262,TV Show,Comedy,France,2019,1,NR,7.3,37000284,0.55,66.1
+Content Title 263,Movie,Action,United Kingdom,2022,8,PG,6.9,22855629,0.71,62.8
+Content Title 264,Movie,Horror,Mexico,2023,6,TV-MA,7.3,33659660,0.42,58.9
+Content Title 265,TV Show,Sci-Fi,Brazil,2016,7,R,7.1,40785454,0.89,81.4
+Content Title 266,TV Show,Action,France,2018,9,NR,9.0,49714882,0.86,91.2
+Content Title 267,TV Show,Crime,Japan,2018,10,TV-14,7.2,1216487,0.6,46.3
+Content Title 268,TV Show,Drama,Mexico,2019,9,NR,7.2,44095965,0.83,81.3
+Content Title 269,Movie,Drama,Mexico,2021,6,NR,7.2,35280636,0.75,72.8
+Content Title 270,TV Show,Action,Turkey,2023,9,TV-14,7.9,2218661,0.71,53.4
+Content Title 271,Movie,Sci-Fi,Canada,2017,2,TV-Y7,7.0,27813283,0.78,68.9
+Content Title 272,TV Show,Drama,Spain,2020,8,TV-G,6.0,14014466,0.71,54.8
+Content Title 273,TV Show,Romance,India,2020,11,PG,7.1,35877551,0.59,66.4
+Content Title 274,TV Show,Crime,Germany,2022,7,TV-PG,6.2,16643619,0.55,50.6
+Content Title 275,TV Show,Documentary,Spain,2017,7,TV-G,6.2,47410961,0.67,73.8
+Content Title 276,TV Show,Documentary,United Kingdom,2018,11,TV-Y7,7.5,36552922,0.61,68.8
+Content Title 277,Movie,Documentary,United States,2018,11,TV-G,6.5,48025210,0.44,65.9
+Content Title 278,TV Show,Sci-Fi,South Korea,2022,5,G,6.2,36243352,0.55,62.3
+Content Title 279,TV Show,Action,United Kingdom,2022,10,TV-MA,7.7,39481528,0.53,68.0
+Content Title 280,Movie,Horror,United States,2022,7,TV-14,5.9,22265629,0.79,62.7
+Content Title 281,Movie,Drama,Brazil,2022,8,TV-G,8.9,10699246,0.62,57.9
+Content Title 282,Movie,Documentary,Canada,2020,5,TV-14,6.5,4070333,0.9,57.9
+Content Title 283,Movie,Animation,Spain,2022,4,R,8.0,2603042,0.9,61.6
+Content Title 284,Movie,Drama,Turkey,2019,9,TV-PG,6.9,33344650,0.5,60.7
+Content Title 285,Movie,Documentary,Mexico,2015,6,G,7.6,22584295,0.56,58.8
+Content Title 286,TV Show,Action,Turkey,2020,11,TV-14,7.3,18409786,0.51,53.3
+Content Title 287,Movie,Sci-Fi,Australia,2018,9,PG,6.4,12595608,0.41,43.2
+Content Title 288,TV Show,Crime,Australia,2023,11,TV-Y7,8.2,11877264,0.74,61.3
+Content Title 289,TV Show,Comedy,France,2019,10,TV-G,7.8,12500456,0.94,68.5
+Content Title 290,Movie,Drama,Japan,2018,8,PG,6.8,30079913,0.81,70.8
+Content Title 291,Movie,Documentary,Australia,2018,5,TV-14,6.8,15957997,0.43,47.2
+Content Title 292,TV Show,Action,France,2020,3,TV-14,7.9,47314913,0.82,84.9
+Content Title 293,TV Show,Romance,Mexico,2022,3,TV-G,6.3,9063649,0.66,50.7
+Content Title 294,TV Show,Thriller,Spain,2023,5,PG-13,7.4,31696737,0.82,74.0
+Content Title 295,Movie,Crime,Turkey,2023,7,PG,8.3,35366154,0.65,72.1
+Content Title 296,Movie,Drama,Turkey,2015,11,G,7.4,34022662,0.51,63.0
+Content Title 297,Movie,Romance,Turkey,2016,9,NR,7.3,7900735,0.77,57.4
+Content Title 298,Movie,Animation,Germany,2020,6,TV-Y7,8.3,30529326,0.47,62.0
+Content Title 299,Movie,Animation,Germany,2020,2,TV-Y7,7.9,20780909,0.8,68.2
+Content Title 300,Movie,Horror,Mexico,2017,11,TV-14,5.8,28533850,0.59,58.1
+Content Title 301,Movie,Comedy,Italy,2021,1,R,7.2,19366331,0.62,58.0
+Content Title 302,TV Show,Romance,Italy,2023,8,G,6.8,25433351,0.61,60.1
+Content Title 303,TV Show,Comedy,India,2016,6,PG-13,9.0,26477718,0.69,70.5
+Content Title 304,Movie,Documentary,Germany,2015,1,TV-Y7,7.9,36637108,0.63,70.9
+Content Title 305,Movie,Sci-Fi,Canada,2017,7,TV-14,6.0,12748708,0.92,62.4
+Content Title 306,TV Show,Crime,Netherlands,2015,5,TV-14,8.8,1149971,0.53,48.3
+Content Title 307,Movie,Sci-Fi,Mexico,2016,2,TV-MA,7.9,3366612,0.53,46.9
+Content Title 308,TV Show,Horror,Brazil,2019,7,TV-PG,6.3,3887895,0.48,40.4
+Content Title 309,TV Show,Crime,Mexico,2017,8,R,8.2,21619471,0.53,58.8
+Content Title 310,Movie,Thriller,Japan,2022,5,R,6.5,37460720,0.92,78.8
+Content Title 311,TV Show,Animation,Germany,2022,1,TV-Y7,5.7,23213287,0.92,67.8
+Content Title 312,TV Show,Thriller,France,2023,10,G,6.0,25363815,0.5,53.2
+Content Title 313,Movie,Horror,Japan,2020,4,TV-MA,8.5,9787281,0.84,65.0
+Content Title 314,TV Show,Thriller,Brazil,2021,4,PG-13,7.4,26166361,0.53,59.1
+Content Title 315,Movie,Sci-Fi,Turkey,2018,9,PG-13,6.8,36045892,0.8,74.0
+Content Title 316,TV Show,Thriller,Australia,2015,7,PG-13,7.6,2753991,0.88,59.7
+Content Title 317,Movie,Sci-Fi,South Korea,2023,7,TV-MA,8.5,22444856,0.57,61.8
+Content Title 318,Movie,Comedy,Spain,2017,5,NR,9.0,32239835,0.9,82.3
+Content Title 319,Movie,Thriller,Italy,2022,11,TV-Y7,6.3,21683217,0.83,65.1
+Content Title 320,TV Show,Documentary,Japan,2020,3,TV-G,6.8,33471714,0.66,66.9
+Content Title 321,TV Show,Horror,Canada,2023,7,PG-13,6.6,3167911,0.71,50.1
+Content Title 322,Movie,Drama,Japan,2023,4,TV-Y7,7.4,39293717,0.72,74.6
+Content Title 323,Movie,Horror,Canada,2018,4,TV-G,6.3,38337926,0.86,76.3
+Content Title 324,TV Show,Documentary,Netherlands,2021,3,TV-G,8.4,48657151,0.75,84.4
+Content Title 325,Movie,Romance,India,2020,3,G,6.0,36778103,0.67,66.9
+Content Title 326,Movie,Animation,United States,2022,3,TV-MA,8.4,5088229,0.92,65.1
+Content Title 327,Movie,Thriller,India,2023,7,R,8.4,15631232,0.44,52.2
+Content Title 328,Movie,Animation,Germany,2015,2,NR,6.8,41562220,0.75,75.3
+Content Title 329,TV Show,Drama,United States,2020,6,G,7.4,27704460,0.41,55.2
+Content Title 330,TV Show,Animation,Japan,2023,2,R,5.6,46932529,0.77,75.8
+Content Title 331,Movie,Animation,India,2016,3,PG,6.3,41692788,0.69,71.5
+Content Title 332,TV Show,Comedy,Canada,2017,12,PG-13,8.9,30902817,0.71,73.6
+Content Title 333,Movie,Drama,United Kingdom,2018,5,TV-MA,6.9,25411421,0.7,63.9
+Content Title 334,Movie,Action,United Kingdom,2022,2,PG,7.2,29219183,0.75,69.1
+Content Title 335,Movie,Animation,Italy,2021,5,NR,5.6,14287958,0.9,61.4
+Content Title 336,TV Show,Drama,Italy,2020,5,NR,5.8,18915514,0.89,64.3
+Content Title 337,Movie,Action,Italy,2022,5,NR,8.5,1150796,0.93,63.4
+Content Title 338,TV Show,Comedy,Japan,2016,8,TV-Y7,6.1,16237815,0.71,56.4
+Content Title 339,TV Show,Thriller,Netherlands,2022,8,G,8.1,46358847,0.8,84.1
+Content Title 340,TV Show,Drama,United Kingdom,2023,5,NR,7.0,5201498,0.59,47.7
+Content Title 341,TV Show,Romance,United States,2021,9,PG,7.7,30335911,0.67,68.1
+Content Title 342,TV Show,Thriller,India,2021,3,NR,7.9,44436941,0.61,74.8
+Content Title 343,Movie,Comedy,United Kingdom,2018,4,R,6.4,25601367,0.79,66.2
+Content Title 344,TV Show,Romance,Canada,2023,4,TV-G,5.9,448645,0.92,54.8
+Content Title 345,TV Show,Comedy,India,2019,1,G,5.8,29022545,0.65,60.8
+Content Title 346,TV Show,Comedy,United States,2020,9,NR,5.8,37293061,0.45,57.8
+Content Title 347,TV Show,Thriller,United States,2023,10,G,6.5,26124787,0.83,68.4
+Content Title 348,Movie,Thriller,India,2017,9,R,6.0,20308577,0.55,52.2
+Content Title 349,Movie,Thriller,Japan,2015,9,PG,7.0,32596213,0.83,73.8
+Content Title 350,Movie,Sci-Fi,Mexico,2017,10,TV-PG,7.7,30826574,0.46,60.0
+Content Title 351,TV Show,Romance,Turkey,2015,1,TV-Y7,7.7,22215170,0.64,62.0
+Content Title 352,Movie,Documentary,Canada,2022,4,PG,7.6,46760276,0.51,71.3
+Content Title 353,TV Show,Romance,Japan,2016,12,NR,8.1,42573365,0.67,76.6
+Content Title 354,Movie,Romance,France,2023,10,NR,6.5,26469430,0.6,59.4
+Content Title 355,Movie,Animation,United States,2017,3,PG-13,8.8,31078942,0.92,81.8
+Content Title 356,TV Show,Comedy,Turkey,2019,12,R,8.5,27557027,0.77,72.8
+Content Title 357,TV Show,Horror,Japan,2022,2,TV-Y7,7.8,48098701,0.63,77.5
+Content Title 358,TV Show,Crime,Germany,2015,10,TV-Y7,7.5,35960789,0.68,71.3
+Content Title 359,Movie,Romance,Spain,2021,2,TV-14,8.6,36131150,0.73,76.7
+Content Title 360,Movie,Romance,India,2016,3,TV-Y7,7.8,3072700,0.71,53.6
+Content Title 361,TV Show,Thriller,United Kingdom,2023,6,G,5.5,17463638,0.52,47.8
+Content Title 362,Movie,Sci-Fi,Canada,2021,4,G,6.9,45704196,0.72,76.9
+Content Title 363,TV Show,Drama,Germany,2016,9,TV-14,5.9,28015638,0.91,70.9
+Content Title 364,Movie,Romance,Japan,2016,4,PG,6.7,13982631,0.69,56.1
+Content Title 365,Movie,Sci-Fi,Spain,2020,5,TV-MA,7.9,21501652,0.44,54.2
+Content Title 366,Movie,Drama,Turkey,2022,12,R,6.7,7439205,0.77,55.4
+Content Title 367,Movie,Animation,India,2023,4,TV-G,7.4,22312339,0.71,64.0
+Content Title 368,TV Show,Action,India,2017,8,NR,7.7,29100052,0.62,65.4
+Content Title 369,TV Show,Crime,France,2017,3,TV-PG,6.9,47394006,0.52,69.9
+Content Title 370,Movie,Crime,United Kingdom,2023,6,PG,8.3,36130011,0.5,66.6
+Content Title 371,TV Show,Comedy,Japan,2017,3,PG,7.8,32948713,0.69,70.8
+Content Title 372,TV Show,Crime,France,2021,9,TV-G,7.6,23448827,0.59,60.5
+Content Title 373,Movie,Documentary,Italy,2021,12,PG,7.7,5787608,0.77,57.4
+Content Title 374,Movie,Documentary,United Kingdom,2016,4,TV-Y7,6.1,46635738,0.48,65.5
+Content Title 375,Movie,Crime,France,2019,9,R,7.0,32759885,0.75,70.7
+Content Title 376,Movie,Sci-Fi,Japan,2021,3,NR,6.0,21211107,0.86,65.1
+Content Title 377,TV Show,Drama,Germany,2015,8,G,6.0,25866057,0.93,70.7
+Content Title 378,TV Show,Thriller,Australia,2022,4,TV-G,7.2,47756847,0.86,84.7
+Content Title 379,Movie,Crime,United States,2016,11,TV-PG,8.3,14899484,0.56,56.2
+Content Title 380,TV Show,Action,Netherlands,2017,7,TV-G,7.1,49929556,0.82,84.1
+Content Title 381,Movie,Crime,United Kingdom,2021,3,PG,6.4,36547238,0.85,75.1
+Content Title 382,Movie,Sci-Fi,Brazil,2021,1,PG-13,6.3,28631648,0.46,54.5
+Content Title 383,Movie,Sci-Fi,Japan,2018,5,TV-14,6.7,5937330,0.64,49.3
+Content Title 384,Movie,Horror,Netherlands,2023,9,NR,8.1,46346972,0.59,75.7
+Content Title 385,TV Show,Action,Mexico,2022,2,TV-MA,6.0,13966010,0.85,60.4
+Content Title 386,TV Show,Animation,Japan,2021,5,TV-PG,7.6,11399613,0.58,52.8
+Content Title 387,TV Show,Animation,Italy,2018,3,TV-Y7,7.9,6490452,0.47,46.4
+Content Title 388,TV Show,Action,Spain,2015,8,PG,8.5,16855556,0.48,54.8
+Content Title 389,TV Show,Sci-Fi,India,2017,10,TV-Y7,7.5,18133302,0.75,63.4
+Content Title 390,Movie,Comedy,France,2020,1,PG,7.3,18771409,0.78,64.4
+Content Title 391,TV Show,Romance,Mexico,2020,2,TV-G,5.5,49272277,0.45,64.1
+Content Title 392,TV Show,Comedy,Netherlands,2022,2,PG-13,7.4,14718319,0.93,68.2
+Content Title 393,TV Show,Romance,Turkey,2020,7,NR,6.5,36829388,0.72,70.4
+Content Title 394,TV Show,Drama,United States,2020,6,R,5.8,30942010,0.41,52.4
+Content Title 395,TV Show,Drama,France,2019,12,TV-PG,6.2,46310618,0.9,82.4
+Content Title 396,TV Show,Comedy,Australia,2016,10,R,6.8,5631148,0.6,47.8
+Content Title 397,TV Show,Documentary,Spain,2015,8,TV-14,7.9,15813127,0.64,58.8
+Content Title 398,Movie,Drama,South Korea,2022,11,G,7.2,9005332,0.73,56.2
+Content Title 399,TV Show,Drama,United States,2022,8,TV-Y7,7.9,8192911,0.94,66.2
+Content Title 400,Movie,Sci-Fi,United Kingdom,2022,10,TV-14,6.3,6094907,0.8,54.6
+Content Title 401,TV Show,Romance,Italy,2016,2,R,6.5,25783974,0.83,68.2
+Content Title 402,Movie,Comedy,Brazil,2022,3,TV-G,7.5,41057830,0.76,77.5
+Content Title 403,Movie,Action,Italy,2018,12,PG-13,6.9,46174675,0.64,74.0
+Content Title 404,Movie,Action,Netherlands,2015,12,TV-Y7,5.9,49090084,0.61,71.6
+Content Title 405,Movie,Horror,Japan,2018,7,NR,7.8,16754207,0.7,61.5
+Content Title 406,TV Show,Drama,Turkey,2023,2,NR,8.5,20343344,0.51,58.1
+Content Title 407,Movie,Thriller,Japan,2020,9,TV-14,7.8,16161907,0.67,59.9
+Content Title 408,TV Show,Crime,United Kingdom,2017,9,PG,7.3,909803,0.94,60.0
+Content Title 409,TV Show,Crime,France,2016,6,TV-G,6.8,45931465,0.5,68.0
+Content Title 410,Movie,Drama,Mexico,2023,8,TV-MA,5.7,17694956,0.52,48.5
+Content Title 411,TV Show,Animation,Japan,2023,11,TV-Y7,7.7,33724826,0.82,76.1
+Content Title 412,TV Show,Comedy,Australia,2022,11,TV-14,7.4,41442218,0.48,66.3
+Content Title 413,Movie,Animation,Italy,2018,6,TV-Y7,6.2,10527182,0.7,52.9
+Content Title 414,Movie,Documentary,Spain,2021,7,TV-14,7.0,16114684,0.43,47.9
+Content Title 415,Movie,Sci-Fi,Mexico,2019,11,R,7.6,20856104,0.77,66.1
+Content Title 416,Movie,Action,Spain,2016,5,G,5.5,33413707,0.92,73.3
+Content Title 417,TV Show,Action,Canada,2020,10,TV-14,5.9,18136479,0.8,60.6
+Content Title 418,Movie,Romance,Netherlands,2023,8,NR,7.0,35255261,0.44,59.8
+Content Title 419,Movie,Sci-Fi,Germany,2022,1,NR,7.3,3820455,0.67,51.0
+Content Title 420,TV Show,Action,Japan,2016,11,TV-14,8.2,38614602,0.77,78.6
+Content Title 421,Movie,Drama,Turkey,2017,7,PG,8.5,16511570,0.43,52.6
+Content Title 422,Movie,Action,Italy,2019,4,TV-Y7,8.9,2473209,0.7,56.2
+Content Title 423,TV Show,Horror,France,2017,7,TV-14,8.7,21570483,0.55,61.0
+Content Title 424,TV Show,Comedy,Brazil,2021,5,G,7.9,3634768,0.5,45.9
+Content Title 425,TV Show,Comedy,Italy,2015,7,TV-PG,7.1,19045293,0.83,65.9
+Content Title 426,Movie,Animation,Germany,2018,9,TV-PG,5.5,13566813,0.56,47.0
+Content Title 427,Movie,Sci-Fi,Canada,2023,4,PG-13,7.6,33208874,0.95,80.7
+Content Title 428,Movie,Action,United States,2023,3,PG,8.8,1704590,0.53,48.6
+Content Title 429,Movie,Romance,United States,2022,2,TV-PG,8.2,25351376,0.87,74.6
+Content Title 430,Movie,Animation,South Korea,2016,3,R,7.0,4119490,0.93,60.7
+Content Title 431,TV Show,Comedy,United States,2022,12,PG,8.7,34980450,0.63,72.3
+Content Title 432,Movie,Crime,United Kingdom,2020,2,TV-14,7.3,42862820,0.85,81.6
+Content Title 433,Movie,Thriller,Australia,2021,8,PG,8.9,15989482,0.56,58.7
+Content Title 434,TV Show,Romance,Canada,2023,12,PG-13,7.1,15777384,0.44,48.4
+Content Title 435,Movie,Action,United Kingdom,2016,7,TV-14,6.1,31376429,0.57,59.9
+Content Title 436,TV Show,Horror,Germany,2021,1,TV-14,6.6,17884380,0.87,65.3
+Content Title 437,TV Show,Crime,United States,2016,10,PG-13,6.3,22097860,0.48,51.4
+Content Title 438,TV Show,Animation,United States,2018,12,R,7.9,17559497,0.85,68.2
+Content Title 439,TV Show,Sci-Fi,Brazil,2015,5,TV-14,8.1,16867326,0.45,52.4
+Content Title 440,Movie,Comedy,United States,2023,11,TV-Y7,5.7,15017504,0.47,44.9
+Content Title 441,Movie,Crime,Mexico,2019,3,TV-14,6.4,5132304,0.41,38.7
+Content Title 442,TV Show,Action,United Kingdom,2017,3,TV-G,8.7,22349936,0.47,58.3
+Content Title 443,Movie,Crime,France,2015,7,TV-Y7,8.4,26607913,0.67,68.0
+Content Title 444,TV Show,Action,Canada,2022,8,TV-G,6.3,12659498,0.55,48.5
+Content Title 445,Movie,Crime,Mexico,2016,8,TV-Y7,7.7,43538118,0.56,71.6
+Content Title 446,TV Show,Drama,United Kingdom,2021,3,G,6.5,9309753,0.63,50.3
+Content Title 447,Movie,Thriller,Netherlands,2017,10,TV-G,8.0,32291077,0.7,71.4
+Content Title 448,TV Show,Thriller,Japan,2018,11,TV-MA,6.1,21499511,0.73,60.4
+Content Title 449,TV Show,Drama,Netherlands,2023,9,NR,9.0,35629599,0.6,72.4
+Content Title 450,Movie,Comedy,South Korea,2017,8,TV-MA,7.8,17986324,0.69,61.8
+Content Title 451,Movie,Crime,Turkey,2023,7,R,8.9,26166594,0.6,66.4
+Content Title 452,Movie,Crime,Canada,2016,12,NR,8.3,46916926,0.6,77.1
+Content Title 453,TV Show,Crime,Mexico,2015,4,TV-G,6.0,12732147,0.86,60.0
+Content Title 454,TV Show,Action,Germany,2021,1,PG-13,5.6,3869369,0.53,40.3
+Content Title 455,TV Show,Drama,Canada,2015,3,PG,8.7,13620045,0.84,67.9
+Content Title 456,Movie,Romance,United States,2023,1,R,5.6,39466675,0.79,72.1
+Content Title 457,Movie,Animation,Turkey,2023,9,TV-Y7,6.8,4967513,0.61,47.8
+Content Title 458,Movie,Romance,Japan,2021,7,TV-Y7,6.6,10669906,0.8,58.2
+Content Title 459,TV Show,Romance,India,2023,11,NR,8.0,37813658,0.78,77.9
+Content Title 460,TV Show,Horror,Australia,2023,10,TV-PG,7.6,11867648,0.61,54.3
+Content Title 461,Movie,Drama,Spain,2016,6,NR,8.8,26379926,0.87,77.0
+Content Title 462,Movie,Crime,Canada,2015,5,NR,8.7,41129094,0.52,71.6
+Content Title 463,TV Show,Action,Canada,2016,3,PG,8.1,16071636,0.59,57.5
+Content Title 464,Movie,Romance,Germany,2016,11,TV-14,5.5,14171674,0.54,46.6
+Content Title 465,TV Show,Comedy,Spain,2018,12,TV-Y7,5.5,25999800,0.64,57.7
+Content Title 466,TV Show,Sci-Fi,Italy,2016,11,TV-G,6.8,36743048,0.61,66.8
+Content Title 467,Movie,Action,Germany,2023,11,PG,5.8,2342294,0.56,41.2
+Content Title 468,Movie,Comedy,Canada,2017,12,TV-14,6.1,25296552,0.49,53.1
+Content Title 469,Movie,Romance,Mexico,2021,2,TV-Y7,8.9,32495917,0.79,77.8
+Content Title 470,Movie,Crime,Italy,2022,5,PG-13,7.0,3694065,0.46,41.6
+Content Title 471,TV Show,Animation,Spain,2017,2,TV-PG,8.7,36347204,0.55,69.9
+Content Title 472,Movie,Comedy,United States,2018,5,R,6.9,36987234,0.86,77.3
+Content Title 473,TV Show,Drama,France,2015,8,TV-G,5.8,44527425,0.74,73.7
+Content Title 474,Movie,Drama,South Korea,2017,3,TV-G,6.1,19683135,0.94,67.7
+Content Title 475,TV Show,Thriller,Germany,2016,4,G,7.2,44461647,0.55,70.3
+Content Title 476,Movie,Romance,Italy,2019,5,TV-PG,6.8,12621369,0.65,54.0
+Content Title 477,TV Show,Documentary,South Korea,2019,12,TV-14,8.4,37965947,0.43,65.2
+Content Title 478,TV Show,Animation,France,2015,12,TV-MA,8.9,39675871,0.53,71.7
+Content Title 479,TV Show,Animation,Australia,2019,5,PG-13,8.5,31964925,0.71,73.1
+Content Title 480,TV Show,Comedy,France,2020,5,NR,8.7,48036244,0.42,71.7
+Content Title 481,Movie,Comedy,Netherlands,2020,10,PG-13,7.1,11318238,0.93,65.3
+Content Title 482,Movie,Thriller,United Kingdom,2016,5,R,9.0,29318746,0.51,65.0
+Content Title 483,TV Show,Romance,Italy,2021,9,G,8.0,4597096,0.45,44.8
+Content Title 484,TV Show,Documentary,Brazil,2019,6,NR,7.1,929720,0.83,55.1
+Content Title 485,TV Show,Comedy,France,2021,8,TV-14,6.0,38123474,0.72,69.7
+Content Title 486,Movie,Documentary,Turkey,2016,3,TV-PG,7.4,23176669,0.88,71.3
+Content Title 487,TV Show,Crime,Mexico,2019,4,R,7.2,11656128,0.55,50.6
+Content Title 488,TV Show,Drama,France,2021,12,TV-MA,8.6,22346190,0.78,70.4
+Content Title 489,TV Show,Documentary,Italy,2023,5,TV-PG,6.8,22773808,0.85,68.1
+Content Title 490,TV Show,Sci-Fi,Turkey,2018,6,PG-13,7.9,6691257,0.93,64.9
+Content Title 491,TV Show,Sci-Fi,Netherlands,2016,7,NR,8.4,18180468,0.8,68.1
+Content Title 492,Movie,Horror,Germany,2022,3,G,6.2,27424740,0.81,67.5
+Content Title 493,Movie,Animation,Netherlands,2019,3,TV-Y7,6.1,20979117,0.79,62.5
+Content Title 494,Movie,Action,South Korea,2016,7,PG-13,8.6,13570545,0.86,68.3
+Content Title 495,TV Show,Drama,Italy,2015,5,TV-G,6.8,13462030,0.55,50.5
+Content Title 496,TV Show,Comedy,Australia,2020,8,TV-G,5.6,25095821,0.67,58.7
+Content Title 497,TV Show,Crime,Brazil,2016,12,TV-PG,6.7,11073212,0.86,61.1
+Content Title 498,Movie,Documentary,United States,2023,5,PG-13,6.9,11032530,0.87,62.1
+Content Title 499,Movie,Horror,Japan,2017,6,TV-MA,7.8,34545720,0.41,60.5
+Content Title 500,Movie,Action,Mexico,2020,4,TV-PG,8.3,15116952,0.54,55.6
