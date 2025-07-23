@@ -4,6 +4,11 @@ An interactive data analytics dashboard built with Streamlit that analyzes Netfl
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rh4t8mtzebqmffss7nthkp.streamlit.app/)
 
+## 📷 Dashboard Preview
+
+![Netflix-Content-Strategy-Dashboard](Dashboard.png)
+
+
 ## 📊 Project Overview
 
 This dashboard demonstrates advanced data analysis and visualization skills by providing actionable insights into Netflix's content strategy through:
